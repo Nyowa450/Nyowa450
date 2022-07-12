@@ -11,6 +11,6 @@ Hi! I`m 深草かどま(@kadoma56),japanese Engineer/Designer:art:
 |_| \_|\__, |\___/ \_/\_/ \__,_|
        |___/                    
 ```
-
+![Metrics](/github-metrics.svg)
 
 
