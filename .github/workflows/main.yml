@@ -27,7 +27,7 @@ jobs:
           # Options
           user: Nyowa450
           template: classic
-          base: header, activity, repositories, metadata
+          base: header, activity, repositories
           config_timezone: Asia/Tokyo
           plugin_activity: yes
           plugin_activity_days: 8
