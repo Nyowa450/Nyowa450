@@ -27,13 +27,8 @@ jobs:
           # Options
           user: Nyowa450
           template: classic
-          base: header, activity, repositories
+          base: header, repositories, metadata
           config_timezone: Asia/Tokyo
-          plugin_activity: yes
-          plugin_activity_days: 8
-          plugin_activity_filter: all
-          plugin_activity_limit: 5
-          plugin_activity_load: 256
           plugin_activity_visibility: public
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
